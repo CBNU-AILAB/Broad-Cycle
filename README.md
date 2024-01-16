@@ -15,5 +15,5 @@ We used the UCR 85 archive, which provides a diverse set of datasets collected i
 - UCR 85 Archive could be found [here](http://www.cs.ucr.edu/%7Eeamonn/time_series_data/)
 
 We compared six ensemble-based methods and six deep learning-based methods. AutoBroad represents the results obtained by applying the proposed automation method to Broad CycleMLP.
-- The classification accuracy for all methods can be found [here]([http://www.cs.ucr.edu/%7Eeamonn/time_series_data/](https://github.com/CBNU-AILAB/Broad-Cycle/blob/main/accuracy_results/All_models_performance.csv)https://github.com/CBNU-AILAB/Broad-Cycle/blob/main/accuracy_results/All_models_performance.csv)
+- The classification accuracy for all methods can be found [here](http://www.cs.ucr.edu/%7Eeamonn/time_series_data/](https://github.com/CBNU-AILAB/Broad-Cycle/blob/main/accuracy_results/All_models_performance.csv)https://github.com/CBNU-AILAB/Broad-Cycle/blob/main/accuracy_results/All_models_performance.csv)
 <img src="CD-Diagram/cd-diagram.png">
