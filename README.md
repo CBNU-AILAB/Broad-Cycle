@@ -10,6 +10,9 @@ Broad CycleMLP is a modified architecture that allows the output from each stage
 In the paper "Search for Light Weight Time Series Classification Deep Learning Models using Two-Dimensional Input Features and Automated Exploration," the original model architecture parameters were set as follows: 4 stages, 3 cells, and a dimension of 24 in the first stage.
 <img src="img/BroadCycleMLP.PNG">
 
+## Code
+- The code can be verified here. [here](https://github.com/CBNU-AILAB/Broad-Cycle/blob/main/auto_code.ipynb)
+
 ## Results
 We used the UCR 85 archive, which provides a diverse set of datasets collected in real-world environments for time series data classification. The UCR 85 archive is accessible below.
 - UCR 85 Archive could be found [here](http://www.cs.ucr.edu/%7Eeamonn/time_series_data/)
