@@ -1,0 +1,17 @@
+{
+  "ShapesAll":
+  {
+    "datanum": 600,
+    "rawlen" : 512,
+    "datalen": 512,
+    "classnum": 4,
+    "infeature": ["rp","rerp","trrp","gas","trgad","mk","remk"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 1,
+    "dim" : 56
+  }
+}

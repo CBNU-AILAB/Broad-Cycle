@@ -1,0 +1,17 @@
+{
+  "InsectWingbeatSound":
+  {
+    "datanum": 1980,
+    "rawlen" : 256,
+    "datalen": 256,
+    "classnum": 11,
+    "infeature": ["rp","gas","regas","gad","regad","trgad","remk","trmk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 2,
+    "dim" : 24
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "FaceAll":
+  {
+    "datanum": 1690,
+    "rawlen" : 131,
+    "datalen": 131,
+    "classnum": 14,
+    "infeature": ["trgas","mk","ctwav","trmk"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 1,
+    "dim" : 24
+  }
+}

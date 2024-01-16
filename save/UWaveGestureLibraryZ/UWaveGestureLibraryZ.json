@@ -1,0 +1,17 @@
+{
+  "UWaveGestureLibraryZ":
+  {
+    "datanum": 3582,
+    "rawlen" : 315,
+    "datalen": 315,
+    "classnum": 8,
+    "infeature": ["rp","rerp","gas","regas","trgas","gad","regad","trgad","mk","remk","trmk","ctwav"],
+    "insize":
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 90
+  }
+}

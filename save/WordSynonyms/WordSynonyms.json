@@ -1,0 +1,17 @@
+{
+  "WordSynonyms":
+  {
+    "datanum": 638,
+    "rawlen" : 270,
+    "datalen": 270,
+    "classnum": 25,
+    "infeature": ["rp","rerp","trgad","mk","remk","trmk"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 94
+  }
+}

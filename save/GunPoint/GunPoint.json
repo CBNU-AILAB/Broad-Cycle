@@ -1,0 +1,17 @@
+{
+  "GunPoint":
+  {
+    "datanum": 150,
+    "rawlen" : 150,
+    "datalen": 150,
+    "classnum": 2,
+    "infeature": ["rp","rerp","trrp","regas","trgad","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 64
+  }
+}

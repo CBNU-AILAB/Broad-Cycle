@@ -1,0 +1,17 @@
+{
+  "MiddlePhalanxOutlineCorrect":
+  {
+    "datanum": 291,
+    "rawlen" : 80,
+    "datalen": 80,
+    "classnum": 2,
+    "infeature": ["trgad","trmk","regad","gas","gad","ctwav","mk"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 3,
+    "dim" : 12
+  }
+}

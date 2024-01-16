@@ -1,0 +1,17 @@
+{
+  "RefrigerationDevices":
+  {
+    "datanum": 375,
+    "rawlen" : 720,
+    "datalen": 720,
+    "classnum": 3,
+    "infeature": ["trrp","trgas","regad","mk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 16
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "SwedishLeaf":
+  {
+    "datanum": 625,
+    "rawlen" : 128,
+    "datalen": 128,
+    "classnum": 15,
+    "infeature": ["rp","rerp","trrp","gas","gad","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 62
+  }
+}

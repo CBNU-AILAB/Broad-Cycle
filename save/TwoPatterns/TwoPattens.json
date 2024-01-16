@@ -1,0 +1,17 @@
+{
+  "TwoPatterns":
+  {
+    "datanum": 4000,
+    "rawlen" : 128,
+    "datalen": 128,
+    "classnum": 4,
+    "infeature": ["rp","gas","gad"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 16
+  }
+}

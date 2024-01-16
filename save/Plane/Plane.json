@@ -1,0 +1,17 @@
+{
+  "Plane":
+  {
+    "datanum": 105,
+    "rawlen" : 144,
+    "datalen": 144,
+    "classnum": 7,
+    "infeature": ["rp","rerp","trrp","gas","regad","trgad","mk","trmk"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 2,
+    "dim" : 30
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "UWaveGestureLibraryX":
+  {
+    "datanum": 3582,
+    "rawlen" : 315,
+    "datalen": 315,
+    "classnum": 8,
+    "infeature": ["rerp","trrp","regas","remk","ctwav"],
+    "insize": 128
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 96
+  }
+}

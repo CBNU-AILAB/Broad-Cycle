@@ -1,0 +1,17 @@
+{
+  "Meat":
+  {
+    "datanum": 60,
+    "rawlen" : 448,
+    "datalen": 448,
+    "classnum": 3,
+    "infeature": ["rp","regas","gad","trgad"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 94
+  }
+}

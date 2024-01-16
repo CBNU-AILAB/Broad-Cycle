@@ -1,0 +1,17 @@
+{
+  "OSULeaf":
+  {
+    "datanum": 242,
+    "rawlen" : 427,
+    "datalen": 427,
+    "classnum": 4,
+    "infeature": ["gas","regas","regad","trgad"],
+    "insize": 224
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 3,
+    "dim" : 96
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "CinCECGTorso":
+  {
+    "datanum": 1380,
+    "rawlen" : 1639,
+    "datalen": 128,
+    "classnum": 4,
+    "infeature": ["rp","rerp","trgas"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 1,
+    "dim" : 58
+  }
+}

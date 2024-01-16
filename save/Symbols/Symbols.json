@@ -1,0 +1,17 @@
+{
+  "Symbols":
+  {
+    "datanum": 995,
+    "rawlen" : 398,
+    "datalen": 398,
+    "classnum": 6,
+    "infeature": ["trmk","mk","remk","rerp","gad","trgas","gas"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 2,
+    "dim" : 48
+  }
+}

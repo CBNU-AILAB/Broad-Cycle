@@ -1,0 +1,17 @@
+{
+  "NonInvasiveFetalECGThorax2":
+  {
+    "datanum": 1965,
+    "rawlen" : 750,
+    "datalen": 128,
+    "classnum": 42,
+    "infeature": ["rp","rerp","regas","gad"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 1,
+    "dim" : 28
+  }
+}

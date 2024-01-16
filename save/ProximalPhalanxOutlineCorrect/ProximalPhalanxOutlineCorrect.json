@@ -1,0 +1,17 @@
+{
+  "ProximalPhalanxOutlineCorrect":
+  {
+    "datanum": 291,
+    "rawlen" : 80,
+    "datalen": 80,
+    "classnum": 2,
+    "infeature": ["rp","gas","gad"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 3,
+    "dim" : 24
+  }
+}

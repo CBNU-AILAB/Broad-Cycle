@@ -1,0 +1,17 @@
+{
+  "Wafer":
+  {
+    "datanum": 6164,
+    "rawlen" : 152,
+    "datalen": 152,
+    "classnum": 2,
+    "infeature": ["regas","trgas","gad","trgad","mk","trmk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 90
+  }
+}

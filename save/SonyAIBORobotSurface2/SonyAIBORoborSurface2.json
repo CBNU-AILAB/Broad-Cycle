@@ -1,0 +1,17 @@
+{
+  "SonyAIBORobotSurface2":
+  {
+    "datanum": 953,
+    "rawlen" : 65,
+    "datalen": 65,
+    "classnum": 2,
+    "infeature": ["ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 3,
+    "dim" : 8
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "TwoLeadECG":
+  {
+    "datanum": 1139,
+    "rawlen" : 82,
+    "datalen": 82,
+    "classnum": 2,
+    "infeature": ["rp","rerp","trrp","regas","regad","mk","remk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 3,
+    "cell" : 1,
+    "dim" : 48
+  }
+}

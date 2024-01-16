@@ -1,0 +1,17 @@
+{
+  "DiatomSizeReduction":
+  {
+    "datanum": 1896,
+    "rawlen" : 1024,
+    "datalen": 224,
+    "classnum": 39,
+    "infeature": ["rerp","trrp","mk","remk"],
+    "insize": 224
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 58
+  }
+}

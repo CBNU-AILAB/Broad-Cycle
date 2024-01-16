@@ -1,0 +1,17 @@
+{
+  "ECGFiveDays":
+  {
+    "datanum": 861,
+    "rawlen" : 136,
+    "datalen": 136,
+    "classnum": 2,
+    "infeature": ["rp", "gas","gad"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 4,
+    "cell" : 1,
+    "dim" : 12
+  }
+}

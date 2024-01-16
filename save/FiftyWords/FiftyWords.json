@@ -1,0 +1,17 @@
+{
+  "FiftWords":
+  {
+    "datanum": 455,
+    "rawlen" : 270,
+    "datalen": 270,
+    "classnum": 50,
+    "infeature": ["gad", "rerp","mk","trrp","rp"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 3,
+    "dim" : 48
+  }
+}

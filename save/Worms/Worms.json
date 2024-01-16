@@ -1,0 +1,17 @@
+{
+  "Worms":
+  {
+    "datanum": 77,
+    "rawlen" : 900,
+    "datalen": 128,
+    "classnum": 6,
+    "infeature": ["rp","rerp","trrp","trgas","trgad","remk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 96
+  }
+}

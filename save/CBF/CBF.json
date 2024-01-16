@@ -1,0 +1,17 @@
+{
+  "CBF":
+  {
+    "datanum": 900,
+    "rawlen" : 128,
+    "datalen": 128,
+    "classnum": 3,
+    "infeature": ["rp","regas","trgas","gad","remk","trmk","ctwav"],
+    "insize": 64
+  },
+  "Arch":
+  {
+    "stage" : 2,
+    "cell" : 1,
+    "dim" : 62
+  }
+}
