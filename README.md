@@ -12,6 +12,7 @@ In the paper "Search for Light Weight Time Series Classification Deep Learning M
 
 ## Code
 - The code can be verified here. [here](https://github.com/CBNU-AILAB/Broad-Cycle/blob/main/auto_code.ipynb)
+- Cycle MLP code referance [here](https://github.com/ShoufaChen/CycleMLP)
 
 ## Results
 We used the UCR 85 archive, which provides a diverse set of datasets collected in real-world environments for time series data classification. The UCR 85 archive is accessible below.
