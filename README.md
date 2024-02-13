@@ -8,7 +8,7 @@ In this study, a method was proposed to find the optimal combination of input fe
 
 Broad CycleMLP is a modified architecture that allows the output from each stage of the CycleMLP model to be incorporated into the final output. It has a repeating structure of cells for each stage, and as each stage is traversed, the dimensions of the feature maps double, while the size is reduced by half.<br/>
 In the paper "Search for Light Weight Time Series Classification Deep Learning Models using Two-Dimensional Input Features and Automated Exploration," the original model architecture parameters were set as follows: 4 stages, 3 cells, and a dimension of 24 in the first stage.
-<img src="img/BroadCycleMLP.PNG">
+<img src="img/arc.PNG">
 
 ## Code
 - The code can be verified here. [here](https://github.com/CBNU-AILAB/Broad-Cycle/blob/main/auto_code.ipynb)
